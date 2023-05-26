@@ -1,0 +1,4 @@
+# python cache directory
+__pycache__/
+# directory containing test SquidNote archive, unpacked .squidnote and converted .xopp files
+test_files/

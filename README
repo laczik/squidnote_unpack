@@ -1,0 +1,13 @@
+Program to extract individual notes from a SquidNote backup archive
+
+   Run "squidnote_unpack -h" for usage information
+
+Version 1.0.0 (2023-05-22)
+Copyright (c) 2023, ZJ Laczik    
+
+N.B. The extracted files are only meant to be used as input to squidnote2xopp
+and are not intended to be loaded by SquidNote, and so they have not been tested
+for that use case.
+
+Please submit suggestions, feature requests and bug reports on https://github.com/laczik/
+
